@@ -1,3 +1,13 @@
 body {
- background-color: orange; 
+  background-color: white;
+}
+
+header {
+  background-color: red;
+}
+main {
+  background-color: aqua;
+}
+footer {
+  background-color: brown;
 }
